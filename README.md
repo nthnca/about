@@ -1,2 +1,7 @@
-# about
-Notes, thoughts, ideas. A map to my github repos. Etc.
+# About
+
+https://twitter.com/nthnca
+
+## Blah
+
+- [Chrome Book Setup](ChromeBook.md)
