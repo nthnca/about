@@ -4,7 +4,7 @@ Generally, I create an RSA ssh key for each computer I use. I try to name them i
 
 These keys can then be used for connecting to github, virtual machines, etc.
 
-`ssh-keygen -t rsa -b 4096 -C "nthnca@nthn.ca" -N "" -f <filename>`
+`ssh-keygen -t rsa -b 4096 -C "nathanbullock@machineyearmonth.ca" -N "" -f rsa.machineyearmonth`
 
 - `-t`: Key type, rsa seems to be the current best option.
 - `-b`: Key size, bigger is better.
