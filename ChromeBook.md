@@ -15,3 +15,12 @@
 - Ctrl-Shift-Q twice will logout (can't simply lock the screen because I don't have a search button.)
 - Ctrl-Alt-? to get full list of short cuts.
 - Ctrl-? will give chromebook tips
+
+Git Setup
+
+```shell
+git config --global user.email "nathanbullock@gmail.com"
+git config --global user.name "Nathan Bullock"
+
+... pre push hook
+```
