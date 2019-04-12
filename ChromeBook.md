@@ -22,5 +22,10 @@ Git Setup
 git config --global user.email "nathanbullock@gmail.com"
 git config --global user.name "Nathan Bullock"
 
-... pre push hook
+// To make sure you don't forget to commit or push code
+// Add this to: /usr/share/git-core/templates/hooks/pre-push
+if [ $(git status --porcelain | wc -l) -gt 0 ]; then
+  echo "Repo is dirty... please clean it up/commit before pushing."
+  exit 1
+fi
 ```
