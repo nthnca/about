@@ -4,7 +4,7 @@ This is just a simple directory of some of the things I am currently interested 
 
 ## Documentation
 
-- [Recipes](https://github.com/nthnca/recipes/blob/master/README.md) - Food. Family recipes, just started using github for this. Makes it easy to add/update/organize these over time. Also allows us to share these with our children/family/friends.
+- [Family Recipes](https://github.com/nthnca/recipes/blob/master/README.md) - Using github for this makes it easy to add/update/organize these over time. Also allows us to share these with our children/family/friends.
 - [Chrome Book Setup](ChromeBook.md)
 - https://github.com/nthnca/docs
 - https://github.com/nthnca/cloud
@@ -12,8 +12,8 @@ This is just a simple directory of some of the things I am currently interested 
 
 ## Environment Configuration
 
-- https://github.com/nthnca/dotvim - My VIM configuration.
-- https://github.com/nthnca/dotbash - My bash/linux configuration.
+- [My VIM configuration](https://github.com/nthnca/dotvim)
+- [My bash/linux configuration](https://github.com/nthnca/dotbash)
 
 ## Programming
 
@@ -27,8 +27,7 @@ This is just a simple directory of some of the things I am currently interested 
 
 ## Pics
 
-- https://github.com/nthnca/wallpaper
-- asdfasf
+- [Wallpaper Pics, mostly mine](https://github.com/nthnca/wallpaper)
 
 ## Old stuff
 
