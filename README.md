@@ -28,12 +28,14 @@ This is just a simple directory of some of the things I am currently interested 
 ## Pics
 
 - https://github.com/nthnca/wallpaper
+- asdfasf
 
-## No Longer Used...
+## Old stuff
 
 - https://github.com/nthnca/gobuild
 - https://github.com/nthnca/photo-repo-tools
-
+- https://github.com/nthnca/gobuild
+- https://github.com/nthnca/photo-repo-tools
 - https://github.com/nathanbullock/pymtp-nkb
 - https://github.com/nathanbullock/dwm-nkb
 - https://github.com/nathanbullock/uno
