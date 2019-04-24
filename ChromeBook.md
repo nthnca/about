@@ -12,7 +12,8 @@
   - Custom CSS: https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css
   - Font size 14 (for my machine)
 - Alt-TAB will switch between windows.
-- Ctrl-Shift-Q twice will logout (can't simply lock the screen because I don't have a search button.)
+- Ctrl-Shift-Q twice will logout (can't simply lock the screen because I don't have a
+  search button.)
 - Ctrl-Alt-? to get full list of short cuts.
 - Ctrl-? will give chromebook tips
 
