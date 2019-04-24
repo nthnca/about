@@ -1,4 +1,4 @@
-# [About Me](http://go.nthn.ca/now)
+# [About Me](http://go.nthn.ca/me)
 
 This is just a simple directory of some of the things I am currently interested in or
 things I have done over the years. You can also (very occasionally) find me on
