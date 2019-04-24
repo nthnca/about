@@ -6,9 +6,9 @@ This is just a simple directory of some of the things I am currently interested 
 
 - [Family Recipes](https://github.com/nthnca/recipes/blob/master/README.md) - Using github for this makes it easy to add/update/organize these over time. Also allows us to share these with our children/family/friends.
 - [Chrome Book Setup](ChromeBook.md)
-- https://github.com/nthnca/docs
-- https://github.com/nthnca/cloud
-- https://github.com/nthnca/go-hints-and-tips
+- [Git Hints and Tips](GitHintsAndTips.md)
+- [Cloud Machine Setup](NewDevMachine.md)
+- [Dev Machine Setup](setup.sh)
 
 ## Environment Configuration
 
