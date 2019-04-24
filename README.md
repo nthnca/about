@@ -1,6 +1,6 @@
-# About Me - [nthnca](https://twitter.com/nthnca)
+# [About Me](http://go.nthn.ca/now)
 
-This is just a simple directory of some of the things I am currently interested in or things I have done over the years.
+This is just a simple directory of some of the things I am currently interested in or things I have done over the years. You can also (very occasionally) find me on [Twitter](https://twitter.com/nthnca).
 
 ## Documentation
 
