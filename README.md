@@ -45,8 +45,6 @@ things I have done over the years. You can also (very occasionally) find me on
 
 - https://github.com/nthnca/gobuild
 - https://github.com/nthnca/photo-repo-tools
-- https://github.com/nthnca/gobuild
-- https://github.com/nthnca/photo-repo-tools
 - https://github.com/nathanbullock/pymtp-nkb
 - https://github.com/nathanbullock/dwm-nkb
 - https://github.com/nathanbullock/uno
