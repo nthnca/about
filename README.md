@@ -37,6 +37,11 @@ things I have done over the years. You can also (very occasionally) find me on
   between normal and AppEngine interface.
 - [Containers](https://github.com/nthnca/containers)
 
+### Learning (resources for my children or others)
+
+- Want to learn to write your own programming language? I created a very simple language called cookie and implemented it in [Python](https://github.com/nthnca/cookie) and [Go](https://github.com/nthnca/gocookie). Both implementations are only a few hundred lines of code and could be fun and information to try to improve. Some ideas for improvement are listed in their respective README files.
+- My son and I have also been working on a small little [webserver](https://github.com/nthnca/WebServer).
+
 ## Pics
 
 - [Wallpaper Pics, mostly mine](https://github.com/nthnca/wallpaper)
