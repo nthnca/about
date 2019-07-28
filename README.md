@@ -36,10 +36,11 @@ things I have done over the years. You can also (very occasionally) find me on
 - [Datastore Interface](https://github.com/nthnca/datastore) - Creates a consistent API
   between normal and AppEngine interface.
 - [Containers](https://github.com/nthnca/containers)
+- [inactive](https://github.com/nthnca/inactive) - Small utility I use to automatically shutdown my machines that I haven't used for some period of time. I often work on GCE instances and this helps reduce costs by not accidentally leaving them running when I am not using them.
 
 ### Learning (resources for my children or others)
 
-- Want to learn to write your own programming language? I created a very simple language called cookie and implemented it in [Python](https://github.com/nthnca/cookie) and [Go](https://github.com/nthnca/gocookie). Both implementations are only a few hundred lines of code and could be fun and information to try to improve. Some ideas for improvement are listed in their respective README files.
+- Want to learn to write your own programming language? I created a very simple language called cookie and implemented it in [Python - Cookie](https://github.com/nthnca/cookie) and [Go - Cookie](https://github.com/nthnca/gocookie). Both implementations are only a few hundred lines of code and could be fun and informational to try to improve. Some ideas for improvement are listed in their respective README files.
 - My son and I have also been working on a small little [webserver](https://github.com/nthnca/WebServer).
 
 ## Pics
